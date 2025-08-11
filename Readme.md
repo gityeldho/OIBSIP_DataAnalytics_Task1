@@ -16,7 +16,7 @@ Perform Exploratory Data Analysis (EDA) on retail sales data to identify trends,
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
-- Jupyter Notebook
+  
 
 ## Outcome
 - Identified seasonal demand trends
